@@ -17,5 +17,5 @@
 3. En el archivo package.json modificar la línea "test" por lo siguiente (esto es para poder ejecutar el comando npm test): 
     - Para entorno Linux: "test": "node ./node_modules/.bin/jest"
     - Para entorno Windows: "test": "node ./node_modules/jest/bin/jest.js"
-4. Ejecutar en la terminal el comando npm test test/missionCommander.test.js (test/missionCommander.test.js
-)
+4. Ejecutar en la terminal el comando npm test test/missionCommander.test.js (test/missionCommander.test.js es la ruta del archivo de prueba)
+5. Es recomendable hacer una prueba fallida y después una prueba valida.
