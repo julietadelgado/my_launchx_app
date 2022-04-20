@@ -1,0 +1,26 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "Aplicación de práctica para crear un proyecto en JS y agregarle pruebas unitarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julietadelgado/my_launchx_app.git"
+  },
+  "keywords": [
+    "Unit",
+    "test\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Djs",
+    "project",
+    "unit",
+    "test"
+  ],
+  "author": "Julieta Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julietadelgado/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/julietadelgado/my_launchx_app#readme"
+}
