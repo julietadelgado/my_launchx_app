@@ -1,5 +1,5 @@
-describe('Esto es una suite de pruebas', () => {
-    TestWatcher('Caso de prueba 1', () => {
+describe('Unit test for Mission Commander', () => {
+    test('1. Create Mission Commander', () => {
         const result = 1 + 2;
         expect(result).toBe(10)
     })
